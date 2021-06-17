@@ -1,128 +1,128 @@
 [
  {
    "Region": "Västra Götalands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 16,6",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 14,4",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 16,6",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 14,4",
    "Näring3": "Handel - 11,7"
  },
  {
    "Region": "Jönköpings län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 31,0",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9,8",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 31,0",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9,8",
    "Näring3": "Handel - 11,4"
  },
  {
    "Region": "Hallands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 19,8",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 13,7",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 19,8",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 13,7",
    "Näring3": "Handel - 11,8"
  },
  {
    "Region": "Norrbottens län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 37,2",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9,1",
-   "Näring3": "Byggverksamhet - 8,2"
+   "Näring1": "Jordbruk, skogsbruk, fiske - 37,2",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9,1",
+   "Näring3": "Bygg - 8,2"
  },
  {
    "Region": "Västerbottens län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 42,0",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 8,7",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 42,0",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 8,7",
    "Näring3": "Handel - 7,2"
  },
  {
    "Region": "Jämtlands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 37,5",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9",
-   "Näring3": "Byggverksamhet - 8,8"
+   "Näring1": "Jordbruk, skogsbruk, fiske - 37,5",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9",
+   "Näring3": "Bygg - 8,8"
  },
  {
    "Region": "Västernorrlands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske- 33,2",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9,1",
+   "Näring1": "Jordbruk, skogsbruk, fiske- 33,2",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9,1",
    "Näring3": "Handel - 8,8"
  },
  {
    "Region": "Gotlands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 25,5",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9,7",
-   "Näring3": "Byggverksamhet - 9,6"
+   "Näring1": "Jordbruk, skogsbruk, fiske - 25,5",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9,7",
+   "Näring3": "Bygg - 9,6"
  },
  {
    "Region": "Södermanlands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 14,7",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 13,4",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 14,7",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 13,4",
    "Näring3": "Handel - 11,4"
  },
  {
    "Region": "Östergötlands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 19,1",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 12,5",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 19,1",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 12,5",
    "Näring3": "Handel - 11,2"
  },
  {
    "Region": "Uppsala län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 15,9",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 15,9",
-   "Näring3": "Byggverksamhet - 9,7"
+   "Näring1": "Jordbruk, skogsbruk, fiske - 15,9",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 15,9",
+   "Näring3": "Bygg - 9,7"
  },
  {
    "Region": "Stockholms län",
-   "Näring1": "Informations- och kommunikationsverksamhet - 9,2",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 23,4",
+   "Näring1": "Information och kommunikation - 9,2",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 23,4",
    "Näring3": "Handel - 10,1"
  },
  {
    "Region": "Västmanlands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 14,8",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 14,0",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 14,8",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 14,0",
    "Näring3": "Handel - 11,5"
  },
  {
    "Region": "Örebro län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 20,0",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 11,1",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 20,0",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 11,1",
    "Näring3": "Handel - 11,5"
  },
  {
    "Region": "Gävleborgs län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 28,4",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9,4",
-   "Näring3": "Byggverksamhet - 9,4"
+   "Näring1": "Jordbruk, skogsbruk, fiske - 28,4",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9,4",
+   "Näring3": "Bygg - 9,4"
  },
  {
    "Region": "Dalarnas län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 35,7",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9,1",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 35,7",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9,1",
    "Näring3": "Handel - 8,7"
  },
  {
    "Region": "Värmlands län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 37,1",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 8,6",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 37,1",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 8,6",
    "Näring3": "Handel - 9,6"
  },
  {
    "Region": "Skåne län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 12,3",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 16,1",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 12,3",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 16,1",
    "Näring3": "Handel - 12,5"
  },
  {
    "Region": "Kronobergs län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 36,9",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 8,8",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 36,9",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 8,8",
    "Näring3": "Handel - 9,7"
  },
  {
    "Region": "Kalmar län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 31,4",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 9,1",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 31,4",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 9,1",
    "Näring3": "Handel - 10,0"
  },
  {
    "Region": "Blekinge län",
-   "Näring1": "Jordbruk, skogsbruk och fiske - 26,1",
-   "Näring2": "Verksamhet inom juridik, ekonomi, vetenskap och teknik - 10,6",
+   "Näring1": "Jordbruk, skogsbruk, fiske - 26,1",
+   "Näring2": "Juridik, ekonomi, vetenskap, teknik - 10,6",
    "Näring3": "Handel - 11,1"
  }
 ]
