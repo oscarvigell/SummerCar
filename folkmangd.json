@@ -2,47 +2,56 @@
  {
    "Region": "Västra Götalands län",
    "Folkmängd 2020": "1 734 443",
-   "Största stad": "Göteborg"
+   "Största stad": "Göteborg",
+   "Gaseller": "145"
  },
  {
    "Region": "Jönköpings län",
    "Folkmängd 2020": "365010",
-   "Största stad": "Jönköping"
+   "Största stad": "Jönköping",
+   "Gaseller": "17"
  },
  {
    "Region": "Hallands län",
    "Folkmängd 2020": "336748",
-   "Största stad": "Halmstad"
+   "Största stad": "Halmstad",
+   "Gaseller": "25"
  },
  {
    "Region": "Norrbottens län",
    "Folkmängd 2020": "249614",
-   "Största stad": "Luleå"
+   "Största stad": "Luleå",
+   "Gaseller": "24"
  },
  {
    "Region": "Västerbottens län",
    "Folkmängd 2020": "273192",
-   "Största stad": "Umeå"
+   "Största stad": "Umeå",
+   "Gaseller": "12"
  },
  {
    "Region": "Jämtlands län",
    "Folkmängd 2020": "131155",
-   "Största stad": "Östersund"
+   "Största stad": "Östersund",
+   "Gaseller": "15"
  },
  {
    "Region": "Västernorrlands län",
    "Folkmängd 2020": "244554",
-   "Största stad": "Sundsvall"
+   "Största stad": "Sundsvall",
+   "Gaseller": "22"
  },
  {
    "Region": "Gotlands län",
    "Folkmängd 2020": "60124",
-   "Största stad": "Visby"
+   "Största stad": "Visby",
+   "Gaseller": "3"
  },
  {
    "Region": "Södermanlands län",
    "Folkmängd 2020": "299401",
-   "Största stad": "Eskilstuna"
+   "Största stad": "Eskilstuna",
+   "Gaseller": "20"
  },
  {
    "Region": "Östergötlands län",
@@ -52,56 +61,67 @@
  {
    "Region": "Uppsala län",
    "Folkmängd 2020": "388394",
-   "Största stad": "Uppsala"
+   "Största stad": "Uppsala",
+   "Gaseller": "25"
  },
  {
    "Region": "Stockholms län",
    "Folkmängd 2020": "2391990",
-   "Största stad": "Stockholm"
+   "Största stad": "Stockholm",
+   "Gaseller": "277"
  },
  {
    "Region": "Västmanlands län",
    "Folkmängd 2020": "277141",
-   "Största stad": "Västerås"
+   "Största stad": "Västerås",
+   "Gaseller": "19"
  },
  {
    "Region": "Örebro län",
    "Folkmängd 2020": "305643",
-   "Största stad": "Örebro"
+   "Största stad": "Örebro",
+   "Gaseller": "15"
  },
  {
    "Region": "Gävleborgs län",
    "Folkmängd 2020": "287502",
-   "Största stad": "Gävle"
+   "Största stad": "Gävle",
+   "Gaseller": "19"
  },
  {
    "Region": "Dalarnas län",
    "Folkmängd 2020": "287676",
-   "Största stad": "Falun"
+   "Största stad": "Falun",
+   "Gaseller": "16"
  },
  {
    "Region": "Värmlands län",
    "Folkmängd 2020": "282885",
-   "Största stad": "Karlstad"
+   "Största stad": "Karlstad",
+   "Gaseller": "16"
  },
  {
    "Region": "Skåne län",
    "Folkmängd 2020": "1389336",
-   "Största stad": "Malmö"
+   "Största stad": "Malmö",
+   "Gaseller": "100"
  },
  {
    "Region": "Kronobergs län",
    "Folkmängd 2020": "202263",
-   "Största stad": "Växjö"
+   "Största stad": "Växjö",
+   "Gaseller": "21"
  },
  {
    "Region": "Kalmar län",
    "Folkmängd 2020": "246010",
-   "Största stad": "Kalmar"
+   "Största stad": "Kalmar",
+   "Gaseller": "9"
  },
  {
    "Region": "Blekinge län",
    "Folkmängd 2020": "159056",
-   "Största stad": "Karlskrona"
+   "Största stad": "Karlskrona",
+   "Gaseller": "8"
  }
 ]
